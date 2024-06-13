@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- 1. <b>  tag
+        2. <i>  tag
+        3. <u>  tag
+        4. <select>  tag
+        5. <button>  tag
+        6. <hr>  tag
+        7. <br>  tag
+        Required format: -->
+    <h1>First Assignment</h1>
+    <hr>
+    <h2>About &lt;b&gt; tag </h2>
+    <p>The HTML tag is used to make text bold. It doesn't carry any semantic meaning on its own; it's just a
+        presentational element.<b> When you enclose text within and tags, the text becomes visually bold on the
+            webpage</b> </p>
+
+
+    <h2>About &lt;i&gt; </h2>
+    <p><i>The tag defines a part of text in an alternate voice or mood. The content inside is typically displayed in
+            italic.</i></p>
+
+    <h2>About &lt;u&gt;</h2>
+    <p><u>The content inside is typically displayed with an underline.</u></p>
+    <h2>About &lt;select&gt; tag</h2>
+    <label for="select"></label>
+    <select name="select" >
+        <optgroup label="front end">
+            <option value="html">html</option>
+            <option value="css">css</option>
+        </optgroup>
+    </select>
+<p>The  element is used to create a drop-down list. The element is most often used in a form, to collect user input. The name attribute is needed to reference the form data after the form is submitted (if you omit the name attribute, no data from the drop-down list will be submitted).</p>
+<h2>About &lt;button&gt; tag</h2>
+<p>The HTML element is an interactive element activated by a user with a mouse, keyboard, finger, voice command, or other assistive technology. Once activated, it then performs an action, such as submitting a form or opening a dialog.</p>
+<button  > button </button>
+
+<h2>About &lt;hr&gt; tag</h2>
+<p>  By the use of this tag we can add a horizontal line to our html Document</p>
+<hr>
+<h2>Abour &lt;br&gt; tag</h2>
+<p>By use of this tag we can add an extra blank line to our html page/content</p>
+
+
+
+
+</body>
+
+
+</html>
